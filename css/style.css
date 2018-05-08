@@ -1139,6 +1139,9 @@ body.offcanvas #fh5co-main, body.offcanvas .fh5co-nav-toggle {
   -o-transition: 0.2s;
   transition: 0.2s;
 }
+.email{
+  list-style-type: none;
+}
 
 .fh5co-nav-toggle i::before {
   top: -7px;
